@@ -1,0 +1,6 @@
+Date:15-8-2024,Name: 4, Age: 4, Bill: 10000 BDT
+Date:15-8-2024,Name: 4, Age: 4, Bill: 40000 BDT
+Date:15-8-2024,Name: 4, Age: 4, Bill: 15000 BDT
+Date:15-8-2024,Name: 4, Age: 4, Bill: 1500 BDT
+Date:15-8-2024,Name: 4, Age: 4, Bill: 3000 BDT
+Date:15-8-2024,Name: 4, Age: 4, Bill: 3000 BDT
