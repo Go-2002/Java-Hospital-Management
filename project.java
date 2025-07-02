@@ -113,7 +113,7 @@ public class project extends JFrame implements MouseListener, ActionListener {
         imgLabel.setBounds(50, 300, 736, 572);
         panel.add(imgLabel);
 
-        imgg = new ImageIcon("Images/rudra.png");
+        imgg = new ImageIcon("Images/rudra.jng");
         imggLabel = new JLabel(imgg);
         imggLabel.setBounds(0, 0, 900, 1590);  
         panel.add(imggLabel);
