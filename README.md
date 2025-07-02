@@ -12,8 +12,17 @@ This is a simple **Java Swing-based GUI project** that simulates a hospital mana
 - Responsive GUI with **images and styling**
 
 ## 🖼 Screenshot
-![hospital_gui](https://github.com/user-attachments/assets/4cf350ea-a326-4623-a3ad-50e2433c1735)
-[GUI Screenshot]
+![hospital_gui][Screenshot_2025-05-27_130736 1](https://github.com/user-attachments/assets/d5b14e8e-4038-451a-a6cc-f3f6f63970f3)
+
 
 ## 📁 File Structure
+project.java       → Main GUI window, billing logic, file save system  
+start.java         → Main method to launch the program  
+History.txt        → File where patient billing records are saved  
+Images/amit.jpg    → Image shown in the GUI  
+Images/rudra.png   → Another image shown in the GUI  
+hospital_gui.png   → Screenshot of the hospital GUI  
+.gitignore         → Prevents unnecessary files (e.g., .class) from being uploaded  
+README.md          → This file — project overview & usage guide  
+
 
